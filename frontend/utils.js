@@ -1,0 +1,1 @@
+export const BACKEND_URL="blogging-app-zsx3.vercel.app"
